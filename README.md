@@ -1,5 +1,5 @@
-![image]({https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white})
-![image]({https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white})
+![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## User API
 |Method|Endpoint|Description|
@@ -13,6 +13,7 @@
 
 ## Post API
 |Method|Endpoint|Description|
+|---|---|---|
 |GET|`/posts`|전체 게시글 조회|
 |GET|`/posts/:postId`|특정 게시글 조회|
 |POST|`/posts`|게시글 생성|
